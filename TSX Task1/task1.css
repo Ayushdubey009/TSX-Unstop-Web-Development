@@ -1,0 +1,45 @@
+h1{
+    color: rgb(39, 49, 49);
+    text-align: center;
+    margin-top: 20px;
+}
+.int1{
+    color:blueviolet;
+    text-align: center;
+}
+.int2{
+    color: rgb(151, 193, 137);
+    text-align: center;
+}
+p{
+    font-size: 18px;;
+}
+button  {
+    display: block;
+    margin: 50px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;}
+    button:hover {
+        background-color: #0b488a;
+        transform: scale(1.20);
+    }
+    
+
+.intro{
+    font-size: 30px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.description{
+    font-size: 20px;
+    margin-left:20px;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
